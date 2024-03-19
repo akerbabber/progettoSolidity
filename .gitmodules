@@ -1,6 +1,0 @@
-[submodule "lezione2/lib/forge-std"]
-	path = lezione2/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-[submodule "lezione4/lib/forge-std"]
-	path = lezione4/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
