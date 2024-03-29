@@ -13,3 +13,9 @@
 [submodule "lezione7/lib/forge-std"]
 	path = lezione7/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lezione8/lib/forge-std"]
+	path = lezione8/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lezione8/lib/openzeppelin-contracts"]
+	path = lezione8/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
